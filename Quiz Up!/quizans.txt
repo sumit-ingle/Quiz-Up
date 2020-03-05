@@ -1,0 +1,10 @@
+Ans 1: option b <fontface="verdana">
+Ans 2 javaserverpages
+ans 3 option a
+ans 4 servlet
+ans 5 img
+ans 6 option b
+ans 7 option b
+ans 8 jsp container
+ans 9 option b
+ans 10 option b
